@@ -6,7 +6,7 @@ usage: vigenere.py [-h] [-c {encrypt,decrypt}] [-v] message alphakey keyword
 
 Encrypt or decrypt a message using a keyed Vignere cipher.
 
-positional arguments:
+<b>positional arguments:</b>
 
   message:               the message to encrypt or decrypt
   
@@ -16,7 +16,7 @@ positional arguments:
                         the lookup table
 
 
-optional arguments:
+<b>optional arguments:</b>
 
   -h, --help            show this help message and exit
   

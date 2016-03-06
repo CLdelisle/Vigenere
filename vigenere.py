@@ -1,7 +1,7 @@
 #!/usr/bin/env
 
 '''
-A keyed Vignere tool
+A keyed Vigenere tool
 
 Python version 2.7
 

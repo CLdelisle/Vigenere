@@ -20,9 +20,9 @@ optional arguments:
 
 #Examples 
 By default, "decrypt" mode is enabled, and verbose mode is off. A sample of input/output is:
-![Sample](/k1.png "Sample")
+![Sample](/img/k1.png "Sample")
 
 With verbose mode enabled, the input
-![Sample verbose input](/k2_input.png "Sample verbose input")
+![Sample verbose input](/img/k2_input.png "Sample verbose input")
 results in:
-![Sample verbose output](/k2_output.png "Sample verbose output")
+![Sample verbose output](/img/k2_output.png "Sample verbose output")

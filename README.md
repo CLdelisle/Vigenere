@@ -20,4 +20,4 @@ optional arguments:
 
 #Examples 
 
-![Sample output](/k2_output "Sample output")
+![Sample output](/k2_output.png "Sample output")
